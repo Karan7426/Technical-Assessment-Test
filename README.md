@@ -22,9 +22,9 @@ This repository contains the solutions to a series of programming tasks focused 
 
 To run this project, you need to install the dependencies listed in `requirements.txt`.
 
-````bash
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Setup
 
@@ -79,4 +79,4 @@ pip install -r requirements.txt
     ```
     http://127.0.0.1:8000/orders/top-customers/
     ```
-````
+
